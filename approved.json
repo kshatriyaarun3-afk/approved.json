@@ -1,12 +1,6 @@
 {
-  "approved": [
-    "VIRAT-THAKUR-ABC123XYZ",
-    "VIRAT-THAKUR-USER02"
-  ],
-  "convo": [
-    "VIRAT-THAKUR-CONVO123"
-  ],
-  "admin": [
-    "VIRAT-THAKUR-ADMIN001"
-  ]
+  "token": " THE-AYUSH-A2EB704FDD94A5CCE30DA70F55FACC3E",
+  "owner": "AWRU PC",
+  "role": "USER",
+  "added_on": "2025-11-02T00:00:00Z"
 }
