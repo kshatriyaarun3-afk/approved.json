@@ -1,6 +1,8 @@
 {
-  "token": " THE-AYUSH-A2EB704FDD94A5CCE30DA70F55FACC3E",
-  "owner": "AWRU PC",
-  "role": "USER",
-  "added_on": "2025-11-02T00:00:00Z"
+  "approval": [
+    {
+      "name": "RAJA EXIIT",
+      "token": "ALONE-EXIT-39F63C952AD8E940755AEDC758F06B96"
+    }
+  ]
 }
